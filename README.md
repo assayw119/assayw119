@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![PYW's github stats](https://github-readme-stats.vercel.app/api?username=assayw119)](https://github.com/assayw119/github-readme-stats)
+  [![PYW's github stats](https://github-readme-stats.vercel.app/api?username=assayw119&show_icons=True&theta=tokyotonight)
